@@ -1,8 +1,11 @@
+# VALIDATE-CLOUDFORMATION-GH-ACTION
+
 Repository containing Ohpen's Github Action to create or update cloudformation stack with Ohpen standard.
 
 <!-- vscode-markdown-toc -->
-- [<a name='code-of-conduct'></a>code-of-conduct](#code-of-conduct)
-  - [<a name='github-action'></a>github-action](#github-action)
+- [VALIDATE-CLOUDFORMATION-GH-ACTION](#validate-cloudformation-gh-action)
+  - [<a name='code-of-conduct'></a>code-of-conduct](#code-of-conduct)
+    - [<a name='github-action'></a>github-action](#github-action)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
