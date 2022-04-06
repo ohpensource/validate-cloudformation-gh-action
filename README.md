@@ -41,7 +41,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
        - name: validate-cloudformation
-        uses: ohpensource/validate-cloudformation-gh-action/validate-cloudformation@v0.0.1
+        uses: ohpensource/validate-cloudformation-gh-action@v0.0.1
         with:
           region: ${{ secrets.AWS_REGION }}
           access-key: ${{ secrets.AWS_ACCESS_KEY_ID }}
