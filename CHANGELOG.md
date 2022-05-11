@@ -1,3 +1,9 @@
+# :confetti_ball: 0.0.6 (2022-05-11T15:16:21.665Z)
+- - -
+## :bug: Fixes
+* LANZ-2446 updated ci.yml to use new GH actions. Moved action.yml to the root folder. updated readme (#6)
+- - -
+- - -
 # :confetti_ball: 0.0.5 (2022-04-06T09:58:01.072Z)
 - - -
 ## :newspaper: Others
