@@ -1,3 +1,11 @@
+# :confetti_ball: 0.0.7 (2022-09-30T20:39:42.731Z)
+- - -
+## :bug: Fixes
+* LANZ-3220 quotes all bash script parameters
+## :newspaper: Others
+* ci: LANZ-3220 git ignore for idea files
+- - -
+- - -
 # :confetti_ball: 0.0.6 (2022-05-11T15:16:21.665Z)
 - - -
 ## :bug: Fixes
